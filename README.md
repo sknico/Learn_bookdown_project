@@ -12,3 +12,16 @@ The **bookdown** book: https://bookdown.org/yihui/bookdown/
 
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 # Learn_bookdown_project
+
+
+____
+
+
+SKNC:
+
+A set-up to learn how to use bookdowm to create a website.
+I am using bookdown-book https://bookdown.org/yihui/bookdown/get-started.html
+And https://bookdown.org/home/about/
+
+I have used this to set-up the repo/project
+https://jules32.github.io/bookdown-tutorial/setup.html
